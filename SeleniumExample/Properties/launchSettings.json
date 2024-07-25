@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "SeleniumExample": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "selenium_url": "http://localhost:4444/wd/hub",
+        "DATE_RANGE": "2"
+      }
+    }
+  }
+}

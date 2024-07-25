@@ -1,0 +1,10 @@
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\SeleniumExample.exe
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\selenium-manager\linux\selenium-manager
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\selenium-manager\macos\selenium-manager
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\selenium-manager\windows\selenium-manager.exe
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\SeleniumExample.dll
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\SeleniumExample.deps.json
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\SeleniumExample.runtimeconfig.json
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\SeleniumExample.pdb
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\P2690\Desktop\Projects\SeleniumExample\SeleniumExample\bin\Debug\net8.0\publish\WebDriver.dll

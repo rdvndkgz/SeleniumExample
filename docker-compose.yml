@@ -1,0 +1,29 @@
+version: '4.31.1'
+services:
+  selenium-app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - HUB_PORT_4444_TCP_ADDR=selenium
+      - HUB_PORT_4444_TCP_PORT=4444
+      - selenium_url=http://selenium-hub:4444/wd/hub
+      - DATE_RANGE=2
+    networks:
+      - selenium-net
+    depends_on:
+      - selenium-hub      
+  selenium-hub:
+    image: selenium/standalone-chromium:latest
+    ports:
+      - "4444:4444"
+      - "7900:7900"
+      - "5900:5900"
+    networks:
+      - selenium-net
+
+networks:
+  selenium-net:
+    driver: bridge
